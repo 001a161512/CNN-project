@@ -20,4 +20,4 @@ Les images d'aprentisage doivent être stocker dans un dossier (train ou train_6
 
 
 #### Post Scriptum
-les commentaires du code(quand ils sont présents) sont abominables: mélange d'anglais/français et fautes d'orthographes. Désolé.
+Les commentaires du code (quand ils sont présents) sont abominables: mélange d'anglais/français et fautes d'orthographes. Désolé.
